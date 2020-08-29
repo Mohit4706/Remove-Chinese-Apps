@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fe3d36</color>
+    <color name="colorPrimaryDark">#fe3d36</color>
+    <color name="colorAccent">#fe3d36</color>
+    <color name="popup_menu_colour">#fe3d36</color>
+</resources>

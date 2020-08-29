@@ -1,0 +1,2 @@
+rootProject.name='CKMKB Remove Chinese Apps'
+include ':app'

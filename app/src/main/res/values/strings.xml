@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CKMKB Remove Chinese Apps</string>
+    <string name="scan_your_device">Scan your Device</string>
+    <string name="protect_your_phone_nremove_spam_apps">Remove Chinese Apps\n#CKMKB</string>
+    <string name="tap_on_app_icon_to_uninstall_them">"Just Tap on App Icon to Delete "</string>
+</resources>
